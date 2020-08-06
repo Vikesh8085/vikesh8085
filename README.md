@@ -1,4 +1,4 @@
-### Hi👋👋 I am Vikesh , Curretly Writing this README.md 😄
+### Hi👋👋 I am Vikesh , Currently Writing this README.md 😄
 
 
 - 🔭 I’m currently working on ALTBalaji iOS and TVOS application
