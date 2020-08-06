@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi I am Vikesh, Curretly Writing this README.md 👋
 
-<!--
-**Vikesh8085/vikesh8085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ALTBalaji iOS and TVOS application
 - 🌱 I’m currently learning SwiftUI
@@ -11,4 +9,3 @@
 - 📫 How to reach me: vikesh8085@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Love to See my running code
--->
