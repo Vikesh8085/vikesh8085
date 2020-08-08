@@ -1,5 +1,7 @@
 ### Hi👋👋 I am Vikesh , Currently Writing this README.md 😄
 
+[![HitCount](http://hits.dwyl.com/vikesh8085/vikesh8085.svg)](http://hits.dwyl.com/vikesh8085/vikesh8085)
+
 
 - 🔭 I’m currently working on ALTBalaji iOS and TVOS application
 - 🌱 I’m currently learning SwiftUI
