@@ -11,3 +11,10 @@
 - 📫 How to reach me: vikesh8085@gmail.com
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Love to See my running code
+
+### Other places you can find me 
+
+🎥 [Connect me on Linkedin](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
+
+🐣 [See my Tweet](https://twitter.com/vikesh8085)
+
