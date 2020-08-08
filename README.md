@@ -14,7 +14,7 @@
 
 ### Other places you can find me 
 
-🎥 [Connect me on Linkedin](https://www.youtube.com/channel/UCS3-MF_4ADqglU2OSly4vIw?sub_confirmation=1)
+🎥 [Connect me on Linkedin](https://www.linkedin.com/in/vikeshprasad/)
 
 🐣 [See my Tweet](https://twitter.com/vikesh8085)
 
