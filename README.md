@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/vikesh8085/vikesh8085.svg)](http://hits.dwyl.com/vikesh8085/vikesh8085)
 
 
-- 🔭 I’m currently working on ALTBalaji iOS and TVOS application
+- 🔭 I’m currently working with pluang, a jakarta based indonesian startup
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on writing testcases for any iOS/TVOS project
 - 🤔 I’m looking for help with one of my openSource Project OTT based.
